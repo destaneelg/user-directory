@@ -34,24 +34,6 @@
 .App-intro {
   font-size: large;
 }
-.loginForm {
-  padding: 30px;
-  margin: 0px;
-  height: 300px;
-  width: 300px;
-}
-.addUserForm {
-
-  margin: 0px 10px 10px 10px;
-
-}
-.loginFormHeader {
-  color:navy;
-}
-
-.todoHeader{
-  font-size: 30px;
-}
 
 @keyframes App-logo-spin {
   from {
