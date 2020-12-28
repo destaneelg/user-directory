@@ -40,8 +40,13 @@
   height: 300px;
   width: 300px;
 }
+.addUserForm {
+
+  margin: 0px 10px 10px 10px;
+
+}
 .loginFormHeader {
-  color:aqua;
+  color:navy;
 }
 
 .todoHeader{
