@@ -1,18 +1,14 @@
-.App {
+.container {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.table{
+  max-height: fit-content;
+  max-width: fit-content;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1{
+  background-color: black;
+  color: aquamarine;
 }
-
 .App-header {
   background-color: #282c34;
   max-height: fit-content;
@@ -33,13 +29,4 @@
 
 .App-intro {
   font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
